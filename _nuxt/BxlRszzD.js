@@ -1,0 +1,1 @@
+import{d as t,c as o,o as s,J as c}from"./BxVLT2sB.js";const a={},n={class:"absolute w-full"};function r(e,l){return s(),o("div",n,[c(e.$slots,"default")])}const d=t(a,[["render",r]]);export{d as default};
